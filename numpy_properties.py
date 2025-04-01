@@ -1,0 +1,5 @@
+print("Shape:", arr2D.shape)
+print("Size:", arr2D.size)
+print("Data Type:", arr2D.dtype)
+print("Dimension:", arr2D.ndim)
+print("1/23/SET/BCS/358")
